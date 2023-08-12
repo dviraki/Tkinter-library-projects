@@ -1,3 +1,3 @@
 # Tkinter-library-projects
 
-# flash-card usees tkinter and pandas
+# flash-card uses tkinter and pandas
